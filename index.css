@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+
+}
+
+button{
+    color: rgb(0, 0, 0);
+    background-color: white;
+    border-radius: 5px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 500;
+    font-size:larger;
+    height: 30px;
+    width: auto;
+}
